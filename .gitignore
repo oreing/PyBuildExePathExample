@@ -1,0 +1,14 @@
+# Nuitka build artifacts
+*.build/
+*.dist/
+*.onefile-build/
+*.exe
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# log files
+logs/
+*.log

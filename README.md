@@ -113,39 +113,39 @@ PyInstaller Executable - dist\app.exe
 Nuitka Executable - app.exe
 
 __file__
-D:\WorkSpace~Demo\PyBuildExePathExample\app.py
+D:\WorkSpace\~Demo\PyBuildExePathExample\app.py
 D:\Temp_MEI42762\app.py 
 D:\Temp\onefile_17188_133989983771239187\app.py
 
 ⭐sys.argv[0]⭐
-D:\WorkSpace~Demo\PyBuildExePathExample\app.py
-D:\WorkSpace~Demo\PyBuildExePathExample\dist\app.exe
-D:\WorkSpace~Demo\PyBuildExePathExample\app.exe
+D:\WorkSpace\~Demo\PyBuildExePathExample\app.py
+D:\WorkSpace\~Demo\PyBuildExePathExample\dist\app.exe
+D:\WorkSpace\~Demo\PyBuildExePathExample\app.exe
 
 sys.path[0]
-D:\WorkSpace~Demo\PyBuildExePathExample
+D:\WorkSpace\~Demo\PyBuildExePathExample
 D:\Temp_MEI42762\base_library.zip
-D:\WorkSpace~Demo\PyBuildExePathExample
+D:\WorkSpace\~Demo\PyBuildExePathExample
 
 sys.path[1]
 C:\Python\Python312\python312.zip
 D:\Temp_MEI42762\lib-dynload
-D:\WorkSpace~Demo\PyBuildExePathExample
+D:\WorkSpace\~Demo\PyBuildExePathExample
 
 ⭐Path.cwd()⭐
-D:\WorkSpace~Demo\PyBuildExePathExample
-D:\WorkSpace~Demo\PyBuildExePathExample\dist
-D:\WorkSpace~Demo\PyBuildExePathExample
+D:\WorkSpace\~Demo\PyBuildExePathExample
+D:\WorkSpace\~Demo\PyBuildExePathExample\dist
+D:\WorkSpace\~Demo\PyBuildExePathExample
 
 ⭐os.getcwd()⭐
-D:\WorkSpace~Demo\PyBuildExePathExample
-D:\WorkSpace~Demo\PyBuildExePathExample\dist
-D:\WorkSpace~Demo\PyBuildExePathExample
+D:\WorkSpace\~Demo\PyBuildExePathExample
+D:\WorkSpace\~Demo\PyBuildExePathExample\dist
+D:\WorkSpace\~Demo\PyBuildExePathExample
 
 sys.executable
 C:\Python\Python312\python.exe
-D:\WorkSpace~Demo\PyBuildExePathExample\dist\app.exe
-D:\WorkSpace~Demo\PyBuildExePathExample\app.exe
+D:\WorkSpace\~Demo\PyBuildExePathExample\dist\app.exe
+D:\WorkSpace\~Demo\PyBuildExePathExample\app.exe
 ```
 
 ## 📝 Notes
